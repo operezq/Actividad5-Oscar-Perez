@@ -1,3 +1,9 @@
-Notas\Notas.class
-Notas\Principal.class
-Notas\VentanaPrincipal.class
+Figuras\FiguraGeométrica.class
+Figuras\Esfera.class
+Figuras\Principal.class
+Figuras\Cilindro.class
+Figuras\VentanaCilindro.class
+Figuras\VentanaPrincipal.class
+Figuras\VentanaPirámide.class
+Figuras\Piramide.class
+Figuras\VentanaEsfera.class
